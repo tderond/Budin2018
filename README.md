@@ -13,4 +13,4 @@ so it will probably work on many other versions of these packages, Python and op
 I have tried to make the command line flags self-explanatory
 
 
-The example shell script were written for Bash 4.3.30 using Parellel 20130922 on Debian Linux
+The commands in the example shell script were written for Bash 4.3.30 using Parellel 20130922 on Debian Linux

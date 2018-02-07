@@ -14,3 +14,4 @@ I have tried to make the command line flags self-explanatory
 
 
 The commands in the example shell script were written for Bash 4.3.30 using Parellel 20130922 on Debian Linux
+Citation for Parallel: O. Tange (2011): GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47. (by user @ole-tange)

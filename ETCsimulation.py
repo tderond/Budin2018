@@ -169,7 +169,7 @@ else:
 
 if(namespace.tethering):
     tethering=True
-    tethering_distance=namespace.tethering[0]
+    tethering_distance=namespace.tethering[0]/scale
     tethering_strength=namespace.tethering[1]
     number_to_tether=min(number_of_oxidizing_goals,number_of_reducing_goals)
     if(number_of_oxidizing_goals!=number_of_reducing_goals):

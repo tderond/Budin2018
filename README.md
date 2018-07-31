@@ -10,9 +10,12 @@ I have run the Python script succesfully on
 
 so it will probably work on many other versions of these packages, Python and operating systems.
 
-I have tried to make the command line flags self-explanatory
+I have tried to make the command line flags self-explanatory. Run `python ETCsimulation.py --help`
+to see all options and explanations
 
 
-The commands in the example shell script were written for Bash 4.3.30 using Parellel 20130922 on Debian Linux
+The commands in the example shell script were written for Bash 4.3.30 using Parellel 20130922
+on Debian Linux
 
-Citation for Parallel: O. Tange (2011): GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47. (by user @ole-tange)
+Citation for Parallel: O. Tange (2011):
+GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47. (by user @ole-tange)

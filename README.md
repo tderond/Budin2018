@@ -14,7 +14,7 @@ I have tried to make the command line flags self-explanatory. Run `python ETCsim
 to see all options and explanations
 
 
-The commands in the example shell script were written for Bash 4.3.30 using Parellel 20130922
+The commands in the example shell script were written for Bash 4.3.30 using Parallel 20130922
 on Debian Linux
 
 Citation for Parallel: O. Tange (2011):

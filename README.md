@@ -1,4 +1,4 @@
-This script accompanies a paper (currently under review) by Itay Budin, Tristan de Rond, et al.
+This script accompanies "Viscous control of cellular respiration by membrane lipid composition" by Itay Budin, Tristan de Rond, Yan Chen, Leanne Jade G. Chan, Christopher J. Petzold, and Jay D. Keasling (https://dx.doi.org/10.1126/science.aat7925)
 
 If you use this script in your research, please cite the above paper.
 
@@ -17,5 +17,8 @@ to see all options and explanations
 The commands in the example shell script were written for Bash 4.3.30 using Parallel 20130922
 on Debian Linux
 
-Citation for Parallel: O. Tange (2011):
-GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47. (by user @ole-tange)
+Citations for Parallel:
+
+- O. Tange (2018): GNU Parallel 2018, March 2018, https://doi.org/10.5281/zenodo.1146014.
+
+- O. Tange (2011): GNU Parallel - The Command-Line Power Tool, ;login: The USENIX Magazine, February 2011:42-47. (by user @ole-tange)
